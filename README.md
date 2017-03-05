@@ -1,2 +1,4 @@
-# flask-login-example
-Flask-Login example.
+Basic use of Flask-Login with
+- Users roles
+- Passwords hashed with passlib
+- Timed session expiration
