@@ -23,6 +23,6 @@ Make app.py executable:
 chmod +x app.py
 ```
 
-Run ```./app.py''' and open a web browser to ```http://localhost:5000```.
+Run ```./app.py``` and open a web browser to ```http://localhost:5000```.
 
 There are 10 users named ```user1``` through ```user10```. Each user's password is ```username``` + ```_secret```. ```user1``` has the ```admin``` role.
